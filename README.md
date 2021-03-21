@@ -1,2 +1,0 @@
-# MageDuel
-Personal Project
