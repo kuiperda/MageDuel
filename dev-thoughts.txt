@@ -14,6 +14,12 @@ Figure out what's unique about your game and lean into that.
 Polishing one simple mechanic feels a lot better than introducing many rough edges. 
 Simplicity and elegance is really good- set limits on feature creep to keep things manageable.
 
+Brett says to separate creativity and implementation and not to context switch between them all the time.
+(Design entire set of spells then implement them all)
+And he has a lot more good game dev advice in his talk. 
+
+
+
 KCA: Never stop asking questions. 
 
 Lots of good advice in those notes, and from talking to people.
@@ -21,3 +27,5 @@ I see now that I am capable of creating art in this medium. I have much less hol
 I could make something really cool. Something that matters to people. 
 
 I have a lot to learn, and trying things out is a great place to start.
+
+One thing is focus. 
