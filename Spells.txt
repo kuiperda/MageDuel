@@ -13,3 +13,9 @@ Fire Bolt: After a few beats, a flaming crossbow materializes and shoots a rapid
       and the next beat it shoots a bolt like a lance of flame in the direction they had chosen.
       
       
+Magnifying glass- makes spells bigger
+  but not in a programmatically consistent way (hardcoded for each spell)
+    now- this might seem like a 'rough edge' and probably would be somewhat- but could steer parts of the gameplay towards a fun and interesting direction
+    I do tend to like it making sense intuitively and not just vaguely, but could be interesting.
+    This would have to not be a super core mechanic but more of a wild thing, even a powerup or event (so players know wacky stuff will happen)
+    
