@@ -1,9 +1,15 @@
 Don't worry if you have doubts about something! Iterate and discover how it works out!
 
+Idea for information hiding: You don't see your opponent's spell selections and must learn what they have from what they cast. 
+Introduce some mechanic that makes ultimate level spells take some time to come into play. 
 
+For songs, idea of different levels/speeds/rhythms
+But also like the idea of having a sudden death at the end of a song
+Also certain songs or spells that change cast time and/or cooldown time 
 
 Fire Bolt: After a few beats, a flaming crossbow materializes and shoots a rapid bolt of fire.
   So imagine this- Mage sees that spell is castable. Mage stays in place and signs a fire rune (pressing the spell button + direction)
     and next beat he moves normally (or maybe can cast a spell idk?) and the ground he was on has some fire dust on it, then the next beat a fiery crossbow materializes
       and the next beat it shoots a bolt like a lance of flame in the direction they had chosen.
+      
       
